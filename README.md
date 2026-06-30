@@ -83,3 +83,19 @@
 ---
 
 ⭐ Thanks for visiting my profile!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0701-insert-into-a-binary-search-tree) |
+<!---LeetCode Topics End-->
