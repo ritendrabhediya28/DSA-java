@@ -89,6 +89,7 @@
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -97,5 +98,10 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0701-insert-into-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
