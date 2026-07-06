@@ -111,4 +111,16 @@
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0662-maximum-width-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ritendrabhediya28/DSA-java/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ritendrabhediya28/DSA-java/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ritendrabhediya28/DSA-java/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
