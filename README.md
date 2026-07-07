@@ -131,4 +131,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritendrabhediya28/DSA-java/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
