@@ -117,6 +117,7 @@
 | [0020-valid-parentheses](https://github.com/ritendrabhediya28/DSA-java/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ritendrabhediya28/DSA-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ritendrabhediya28/DSA-java/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -135,4 +136,16 @@
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/0496-next-greater-element-i) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
