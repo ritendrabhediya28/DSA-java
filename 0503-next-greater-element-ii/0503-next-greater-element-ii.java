@@ -5,25 +5,20 @@ class Solution {
         int[] ans = new int[n];
         Arrays.fill(ans, -1);
 
-        Stack<Integer> st = new Stack<>();
-
-        for (int i = 2 * n - 1; i >= 0; i--) {
-
-            int index = i % n;
-
-            while (!st.isEmpty() && nums[st.peek()] <= nums[index]) {
-                st.pop();
+      for(int i=0;i<nums.length;i++)
+      {
+        int currel=nums[i];
+        for(int j=1;j<nums.length;j++)
+        {
+           int ind = (i + j) % n;
+            if(nums[ind]>currel)
+            {
+                ans[i]=nums[ind];
+                break;
             }
-
-            if (i < n) {
-                if (!st.isEmpty()) {
-                    ans[index] = nums[st.peek()];
-                }
-            }
-
-            st.push(index);
         }
-
-        return ans;
+       
+      }
+       return ans;
     }
 }
