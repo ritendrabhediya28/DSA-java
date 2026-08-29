@@ -162,4 +162,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ritendrabhediya28/DSA-java/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ritendrabhediya28/DSA-java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
