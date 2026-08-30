@@ -146,6 +146,7 @@
 | [0042-trapping-rain-water](https://github.com/ritendrabhediya28/DSA-java/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritendrabhediya28/DSA-java/tree/master/0503-next-greater-element-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ritendrabhediya28/DSA-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritendrabhediya28/DSA-java/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ritendrabhediya28/DSA-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
