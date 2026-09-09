@@ -121,6 +121,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ritendrabhediya28/DSA-java/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritendrabhediya28/DSA-java/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ritendrabhediya28/DSA-java/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritendrabhediya28/DSA-java/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
 |  |
@@ -149,6 +150,7 @@
 | [0042-trapping-rain-water](https://github.com/ritendrabhediya28/DSA-java/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritendrabhediya28/DSA-java/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ritendrabhediya28/DSA-java/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritendrabhediya28/DSA-java/tree/master/0907-sum-of-subarray-minimums) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ritendrabhediya28/DSA-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -188,4 +190,8 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ritendrabhediya28/DSA-java/tree/master/3904-smallest-stable-index-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ritendrabhediya28/DSA-java/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
