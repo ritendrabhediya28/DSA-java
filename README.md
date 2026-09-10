@@ -123,6 +123,7 @@
 | [0503-next-greater-element-ii](https://github.com/ritendrabhediya28/DSA-java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ritendrabhediya28/DSA-java/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritendrabhediya28/DSA-java/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/ritendrabhediya28/DSA-java/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0735-asteroid-collision](https://github.com/ritendrabhediya28/DSA-java/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritendrabhediya28/DSA-java/tree/master/0907-sum-of-subarray-minimums) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ritendrabhediya28/DSA-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/ritendrabhediya28/DSA-java/tree/master/2104-sum-of-subarray-ranges) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ritendrabhediya28/DSA-java/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/3903-smallest-stable-index-i) |
@@ -168,6 +170,7 @@
 | [0496-next-greater-element-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritendrabhediya28/DSA-java/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritendrabhediya28/DSA-java/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/ritendrabhediya28/DSA-java/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
