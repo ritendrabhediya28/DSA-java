@@ -84,11 +84,11 @@ class Solution {
            long Gleft=m-PGE[m];
            long Gright=NGE[m]-m;
            long Maxtotalway=Gleft*Gright;
-           long sum1=(long)(Maxtotalway*nums[m]);
+           long sum1=(Maxtotalway*nums[m]);
            long Sleft=m-PSE[m];
            long Sright=NSE[m]-m;
            long mintotalway=Sleft*Sright;
-           long sum2=(long)(mintotalway*nums[m]);
+           long sum2=(mintotalway*nums[m]);
            sum+=(sum1-sum2);
          }
          return sum;
