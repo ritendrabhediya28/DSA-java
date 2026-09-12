@@ -12,7 +12,7 @@ class Solution
 
         for(int i=0;i<N;i++)
         {
-            while(!st.isEmpty() && height[i]<height[st.peek()])
+            while(!st.isEmpty() && height[i]<=height[st.peek()])
             {
                 st.pop();
             }
