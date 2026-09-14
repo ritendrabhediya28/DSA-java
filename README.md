@@ -106,10 +106,12 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ritendrabhediya28/DSA-java/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ritendrabhediya28/DSA-java/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Stack
 |  |
@@ -231,4 +233,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ritendrabhediya28/DSA-java/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ritendrabhediya28/DSA-java/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ritendrabhediya28/DSA-java/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
