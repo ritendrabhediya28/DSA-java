@@ -110,6 +110,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ritendrabhediya28/DSA-java/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/ritendrabhediya28/DSA-java/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0210-course-schedule-ii](https://github.com/ritendrabhediya28/DSA-java/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ritendrabhediya28/DSA-java/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/ritendrabhediya28/DSA-java/tree/master/0785-is-graph-bipartite) |
 ## Stack
 |  |
 | ------- |
@@ -244,12 +246,14 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ritendrabhediya28/DSA-java/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ritendrabhediya28/DSA-java/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ritendrabhediya28/DSA-java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ritendrabhediya28/DSA-java/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ritendrabhediya28/DSA-java/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ritendrabhediya28/DSA-java/tree/master/0785-is-graph-bipartite) |
 ## Data Stream
 |  |
 | ------- |
@@ -263,4 +267,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ritendrabhediya28/DSA-java/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ritendrabhediya28/DSA-java/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ritendrabhediya28/DSA-java/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
