@@ -1,4 +1,4 @@
-class Solution 
+class Solution // using DFS
 {
     public boolean DFS(int u ,int[][] graph, int[] color , int currcolor)
     {
