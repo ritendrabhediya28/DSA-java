@@ -1,23 +1,27 @@
-class Solution // using DFS
+class Solution // using BFS
 {
-    public boolean DFS(int u ,int[][] graph, int[] color , int currcolor)
+    public boolean BFS(int u ,int[][] graph, int[] color , int currcolor)
     {
-        int colorofv;
+    
+        Queue<Integer> q = new LinkedList<>();
+        q.offer(u);
         color[u]=currcolor;
-        for(int v : graph[u])
+        while(!q.isEmpty())
         {
-            if(color[v]==color[u])
+            int i= q.poll();
+            for(int v : graph[i])
             {
+                if(color[v]==color[i])
+               {
                 return false;
+               }
+              if(color[v]==-1)
+              {
+                color[v]=1-color[i];
+                q.offer(v);
+              }
             }
-            if(color[v]==-1)
-            {
-            if(DFS(v,graph,color,1-color[u])==false)
-            {
-                return false;
-            }
-            }
-        }
+        }     
         return true;
     }
     public boolean isBipartite(int[][] graph) 
@@ -25,11 +29,11 @@ class Solution // using DFS
         int n= graph.length;
         int[] color = new int[n];
         Arrays.fill(color,-1);
-         for(int i=0 ; i<n;i++)
+        for(int i=0 ; i<n;i++)
          {
             if(color[i]==-1)
             {
-                if(!DFS(i,graph,color,1))
+                if(!BFS(i,graph,color,1))
                 {
                   return false;
                 }
