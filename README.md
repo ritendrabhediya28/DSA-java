@@ -113,6 +113,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ritendrabhediya28/DSA-java/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ritendrabhediya28/DSA-java/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/ritendrabhediya28/DSA-java/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ritendrabhediya28/DSA-java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ritendrabhediya28/DSA-java/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ritendrabhediya28/DSA-java/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/ritendrabhediya28/DSA-java/tree/master/1020-number-of-enclaves) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [0733-flood-fill](https://github.com/ritendrabhediya28/DSA-java/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ritendrabhediya28/DSA-java/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritendrabhediya28/DSA-java/tree/master/0907-sum-of-subarray-minimums) |
+| [1020-number-of-enclaves](https://github.com/ritendrabhediya28/DSA-java/tree/master/1020-number-of-enclaves) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ritendrabhediya28/DSA-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ritendrabhediya28/DSA-java/tree/master/2104-sum-of-subarray-ranges) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -238,6 +241,7 @@
 | [0085-maximal-rectangle](https://github.com/ritendrabhediya28/DSA-java/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ritendrabhediya28/DSA-java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ritendrabhediya28/DSA-java/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/ritendrabhediya28/DSA-java/tree/master/1020-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
@@ -256,6 +260,7 @@
 | [0200-number-of-islands](https://github.com/ritendrabhediya28/DSA-java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ritendrabhediya28/DSA-java/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ritendrabhediya28/DSA-java/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/ritendrabhediya28/DSA-java/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
