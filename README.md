@@ -163,6 +163,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ritendrabhediya28/DSA-java/tree/master/0007-reverse-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ritendrabhediya28/DSA-java/tree/master/3876-construct-uniform-parity-array-ii) |
