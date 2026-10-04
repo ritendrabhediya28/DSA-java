@@ -141,6 +141,7 @@
 | [0402-remove-k-digits](https://github.com/ritendrabhediya28/DSA-java/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritendrabhediya28/DSA-java/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ritendrabhediya28/DSA-java/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ritendrabhediya28/DSA-java/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/ritendrabhediya28/DSA-java/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritendrabhediya28/DSA-java/tree/master/0907-sum-of-subarray-minimums) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritendrabhediya28/DSA-java/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/ritendrabhediya28/DSA-java/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/ritendrabhediya28/DSA-java/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
 | ------- |
@@ -217,15 +219,18 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ritendrabhediya28/DSA-java/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ritendrabhediya28/DSA-java/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/ritendrabhediya28/DSA-java/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritendrabhediya28/DSA-java/tree/master/0907-sum-of-subarray-minimums) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritendrabhediya28/DSA-java/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ritendrabhediya28/DSA-java/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ritendrabhediya28/DSA-java/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/ritendrabhediya28/DSA-java/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ritendrabhediya28/DSA-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
