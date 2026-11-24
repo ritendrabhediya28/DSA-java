@@ -305,4 +305,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ritendrabhediya28/DSA-java/tree/master/0785-is-graph-bipartite) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ritendrabhediya28/DSA-java/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
