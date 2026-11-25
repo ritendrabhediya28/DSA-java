@@ -194,6 +194,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/ritendrabhediya28/DSA-java/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/ritendrabhediya28/DSA-java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ritendrabhediya28/DSA-java/tree/master/1020-number-of-enclaves) |
+| [1470-shuffle-the-array](https://github.com/ritendrabhediya28/DSA-java/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ritendrabhediya28/DSA-java/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ritendrabhediya28/DSA-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ritendrabhediya28/DSA-java/tree/master/2104-sum-of-subarray-ranges) |
