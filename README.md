@@ -187,6 +187,7 @@
 | [0130-surrounded-regions](https://github.com/ritendrabhediya28/DSA-java/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ritendrabhediya28/DSA-java/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/ritendrabhediya28/DSA-java/tree/master/0239-sliding-window-maximum) |
+| [0485-max-consecutive-ones](https://github.com/ritendrabhediya28/DSA-java/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ritendrabhediya28/DSA-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritendrabhediya28/DSA-java/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/ritendrabhediya28/DSA-java/tree/master/0733-flood-fill) |
